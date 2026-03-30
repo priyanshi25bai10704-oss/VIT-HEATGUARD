@@ -1,16 +1,19 @@
-# VIT-HEATGUARD
-Simple Hydration Tracker for Bhopal Heat - BYOP Project
+# VIT-HEATGUARD - Daily Hydration Tracker for Bhopal Heat
 
-**Real Problem:**  
-In Bhopal, high summer temperatures cause dehydration, weakness, fatigue and heat exhaustion. People often forget to drink enough water.
+**Real Problem**  
+In Bhopal and Madhya Pradesh, high summer temperatures (often 40°C+) cause dehydration, weakness, fatigue, and increase the risk of heat exhaustion and heat stroke. Many people forget to drink enough water during the day.
 
-**What this tool does:**  
-Calculates your personal daily water need based on temperature, age, activity and weight.  
-Gives reminders and warns about early signs of dehydration/weakness.
+**What this tool does**  
+- Calculates your **personalized daily water requirement** based on current temperature, age, activity level, and weight.  
+- Gives practical reminders.  
+- Warns about early signs of dehydration and weakness.
 
-**How to Run (on your computer):**
-1. Download this repo as ZIP (Code button → Download ZIP)
-2. Extract the folder
-3. Double-click `hydration_tracker.py` or run with Python
+**How to Run**  
+1. Download the repository as ZIP (green **Code** button → Download ZIP)  
+2. Extract the folder  
+3. Run `hydration_tracker.py` with Python
 
-**Submitted as BYOP for VITyarthi by Priyanshi**
+**Tech Used**  
+Basic Python (input, conditions, simple math)
+
+Submitted as **Bring Your Own Project (BYOP)** for VITyarthi by Priyanshi.
